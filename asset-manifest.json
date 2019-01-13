@@ -1,0 +1,20 @@
+{
+  "main.css": "./static/css/main.e863a130.chunk.css",
+  "main.js": "./static/js/main.67384322.chunk.js",
+  "main.js.map": "./static/js/main.67384322.chunk.js.map",
+  "static/js/1.6b09db63.chunk.js": "./static/js/1.6b09db63.chunk.js",
+  "static/js/1.6b09db63.chunk.js.map": "./static/js/1.6b09db63.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/media/baindesign.png": "./static/media/baindesign.e5f1ea61.png",
+  "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.a1a450ea.woff2",
+  "static/media/baindesign.jpg": "./static/media/baindesign.4634449c.jpg",
+  "static/media/calculator.jpg": "./static/media/calculator.7574ee73.jpg",
+  "static/media/nintendo.jpg": "./static/media/nintendo.69272070.jpg",
+  "static/media/pomodoro.jpg": "./static/media/pomodoro.5f78347b.jpg",
+  "static/media/weather.jpg": "./static/media/weather.f304b354.jpg",
+  "static/css/main.e863a130.chunk.css.map": "./static/css/main.e863a130.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.60fc0fa2227836446abd4eec7930d065.js": "./precache-manifest.60fc0fa2227836446abd4eec7930d065.js",
+  "service-worker.js": "./service-worker.js"
+}
